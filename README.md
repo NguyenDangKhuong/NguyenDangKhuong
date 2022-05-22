@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/heyyolo"><img src="https://github.com/NguyenDangKhuong/NguyenDangKhuong/blob/master/devcard.svg" width="400" alt="Khương Nguyễn's Dev Card"/></a>
+<a href="https://app.daily.dev/heyyolo"><img src="https://github.com/NguyenDangKhuong/NguyenDangKhuong/blob/master/devcard.svg" width="200" alt="Khương Nguyễn's Dev Card"/></a>
 <!--
 **NguyenDangKhuong/NguyenDangKhuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
