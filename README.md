@@ -46,6 +46,6 @@ LaunchDarkly · Segment Analytics · Micro Frontends
 
 ## 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thetaphoa.com-38bdf8?style=flat-square&logo=vercel)](https://thetaphoa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nguyendangkhuong-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nguyendangkhuong)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/NguyenDangKhuong)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thetaphoa.com-38bdf8?style=flat-square&logo=vercel)](https://shop.thetaphoa.store)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nguyendangkhuong-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nguyenkhuong96/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/khuongn/)
