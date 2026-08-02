@@ -13,7 +13,7 @@ I'm a passionate **Frontend & Full-Stack Engineer** dedicated to crafting lightn
 
 - 🔭 **Currently Building:** E-commerce platforms, AI-assisted productivity tools, and Spaced Repetition learning engines.
 - ⚡ **Core Strengths:** React 19, Next.js App Router, TypeScript, Performance Optimization (Core Web Vitals), and Modern UI Design Systems.
-- ⚙️ **DevOps & Homelab:** Managing Oracle Cloud VPS infrastructure, Nginx reverse proxies, Docker container stacks, and self-hosted microservices under `khuong.theworkpc.com`.
+- ⚙️ **DevOps & Homelab:** Operating custom cloud infrastructure, Nginx reverse proxies, Docker containerized microservices, and self-hosted automation workflows.
 - 📍 **Based in:** Vietnam 🇻🇳
 
 ---
@@ -50,18 +50,12 @@ I'm a passionate **Frontend & Full-Stack Engineer** dedicated to crafting lightn
 
 ---
 
-### 🖥️ **Self-Hosted Homelab & Infrastructure (`khuong.theworkpc.com`)**
+### 🏠 **Self-Hosted Homelab Ecosystem**
 
-I maintain and operate a dedicated self-hosted server ecosystem powered by **Oracle Cloud VPS + Docker + Nginx SSL Reverse Proxy**:
+I design and manage a personal self-hosted cloud infrastructure running on **Oracle Cloud VPS + Docker Containers + Nginx SSL Reverse Proxy**.
 
-| Service | Subdomain / Gateway | Purpose & Technology |
-| :--- | :--- | :--- |
-| 🏠 **Homelab Dashboard** | `home.khuong.theworkpc.com` | Unified self-hosted service portal & status hub. |
-| 🤖 **CLI Proxy Gateway** | `cli-proxy.khuong.theworkpc.com` | Custom LLM Proxy & Router for Gemini 2.5, GPT-5.4, Claude Haiku fallback chain. |
-| 📊 **Uptime Kuma** | `uptime.khuong.theworkpc.com` | Real-time 24/7 service availability monitoring & SLA dashboard. |
-| 🛡️ **AdGuard Home** | `adguard.khuong.theworkpc.com` | Network-wide DNS sinkhole, ad blocking & security filtering. |
-| 📲 **Zalo Alert Relay** | `zalo-relay.khuong.theworkpc.com` | Automated webhook alert relay sending system events to Zalo chat. |
-| 💻 **RustDesk Server** | `rustdesk.khuong.theworkpc.com` | Self-hosted encrypted remote desktop relay & rendezvous server. |
+- 🌐 **Primary Portal:** [`home.khuong.theworkpc.com`](https://home.khuong.theworkpc.com) — Centralized unified entry point & service dashboard.
+- 🔒 **Infrastructure Architecture:** Fully isolated containerized microservices, custom LLM AI proxy gateways, automated alert webhooks, and network-wide DNS security filters.
 
 ---
 
@@ -92,7 +86,7 @@ I maintain and operate a dedicated self-hosted server ecosystem powered by **Ora
 <div align="left">
 
 [![Email Badge](https://img.shields.io/badge/Email-khuong%40thetaphoa.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuong@thetaphoa.com)
-[![Homelab Domain](https://img.shields.io/badge/Homelab-khuong.theworkpc.com-38BDF8?style=for-the-badge&logo=nginx&logoColor=white)](https://home.khuong.theworkpc.com)
+[![Homelab Domain](https://img.shields.io/badge/Homelab-home.khuong.theworkpc.com-38BDF8?style=for-the-badge&logo=nginx&logoColor=white)](https://home.khuong.theworkpc.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NguyenDangKhuong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenDangKhuong)
 
 </div>
