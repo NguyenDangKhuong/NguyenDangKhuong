@@ -2,7 +2,7 @@
 ### **Senior Frontend & Full-Stack Engineer** 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Building+High-Performance+Web+Apps;React+%7C+Next.js+%7C+TypeScript;AI-Powered+Tools+%26+Automation;Crafting+Stunning+UI%2FUX+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Building+High-Performance+Web+Apps;React+%7C+Next.js+%7C+TypeScript;AI-Powered+Tools+%26+Automation;Self-Hosted+Infrastructure+%26+Homelab;Crafting+Stunning+UI%2FUX+Experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,7 +13,7 @@ I'm a passionate **Frontend & Full-Stack Engineer** dedicated to crafting lightn
 
 - 🔭 **Currently Building:** E-commerce platforms, AI-assisted productivity tools, and Spaced Repetition learning engines.
 - ⚡ **Core Strengths:** React 19, Next.js App Router, TypeScript, Performance Optimization (Core Web Vitals), and Modern UI Design Systems.
-- 🎯 **Goals:** Architecting scalable micro-frontends and integrating AI capabilities into everyday web products.
+- ⚙️ **DevOps & Homelab:** Managing Oracle Cloud VPS infrastructure, Nginx reverse proxies, Docker container stacks, and self-hosted microservices under `khuong.theworkpc.com`.
 - 📍 **Based in:** Vietnam 🇻🇳
 
 ---
@@ -29,8 +29,6 @@ I'm a passionate **Frontend & Full-Stack Engineer** dedicated to crafting lightn
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -40,15 +38,30 @@ I'm a passionate **Frontend & Full-Stack Engineer** dedicated to crafting lightn
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### **DevOps, Infrastructure & Tools**
+#### **DevOps, Infrastructure & Homelab**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux / Ubuntu](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 </div>
+
+---
+
+### 🖥️ **Self-Hosted Homelab & Infrastructure (`khuong.theworkpc.com`)**
+
+I maintain and operate a dedicated self-hosted server ecosystem powered by **Oracle Cloud VPS + Docker + Nginx SSL Reverse Proxy**:
+
+| Service | Subdomain / Gateway | Purpose & Technology |
+| :--- | :--- | :--- |
+| 🏠 **Homelab Dashboard** | `home.khuong.theworkpc.com` | Unified self-hosted service portal & status hub. |
+| 🤖 **CLI Proxy Gateway** | `cli-proxy.khuong.theworkpc.com` | Custom LLM Proxy & Router for Gemini 2.5, GPT-5.4, Claude Haiku fallback chain. |
+| 📊 **Uptime Kuma** | `uptime.khuong.theworkpc.com` | Real-time 24/7 service availability monitoring & SLA dashboard. |
+| 🛡️ **AdGuard Home** | `adguard.khuong.theworkpc.com` | Network-wide DNS sinkhole, ad blocking & security filtering. |
+| 📲 **Zalo Alert Relay** | `zalo-relay.khuong.theworkpc.com` | Automated webhook alert relay sending system events to Zalo chat. |
+| 💻 **RustDesk Server** | `rustdesk.khuong.theworkpc.com` | Self-hosted encrypted remote desktop relay & rendezvous server. |
 
 ---
 
@@ -79,6 +92,7 @@ I'm a passionate **Frontend & Full-Stack Engineer** dedicated to crafting lightn
 <div align="left">
 
 [![Email Badge](https://img.shields.io/badge/Email-khuong%40thetaphoa.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuong@thetaphoa.com)
+[![Homelab Domain](https://img.shields.io/badge/Homelab-khuong.theworkpc.com-38BDF8?style=for-the-badge&logo=nginx&logoColor=white)](https://home.khuong.theworkpc.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NguyenDangKhuong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenDangKhuong)
 
 </div>
