@@ -54,7 +54,8 @@ I'm a passionate **Frontend & Full-Stack Engineer** dedicated to crafting lightn
 
 I design and manage a personal self-hosted cloud infrastructure running on **Oracle Cloud VPS + Docker Containers + Nginx SSL Reverse Proxy**.
 
-- 🌐 **Primary Portal:** [`home.khuong.theworkpc.com`](https://home.khuong.theworkpc.com) — Centralized unified entry point & service dashboard.
+- 🌐 **Public Domain:** [`khuong.theworkpc.com`](https://khuong.theworkpc.com) — Main personal domain & server endpoint.
+- 🏠 **Homelab Portal:** [`home.khuong.theworkpc.com`](https://home.khuong.theworkpc.com) — Centralized service dashboard & portal.
 - 🔒 **Infrastructure Architecture:** Fully isolated containerized microservices, custom LLM AI proxy gateways, automated alert webhooks, and network-wide DNS security filters.
 
 ---
@@ -86,7 +87,8 @@ I design and manage a personal self-hosted cloud infrastructure running on **Ora
 <div align="left">
 
 [![Email Badge](https://img.shields.io/badge/Email-khuong%40thetaphoa.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuong@thetaphoa.com)
-[![Homelab Domain](https://img.shields.io/badge/Homelab-home.khuong.theworkpc.com-38BDF8?style=for-the-badge&logo=nginx&logoColor=white)](https://home.khuong.theworkpc.com)
+[![Website Badge](https://img.shields.io/badge/Website-khuong.theworkpc.com-38BDF8?style=for-the-badge&logo=nginx&logoColor=white)](https://khuong.theworkpc.com)
+[![Homelab Badge](https://img.shields.io/badge/Homelab-home.khuong.theworkpc.com-009639?style=for-the-badge&logo=docker&logoColor=white)](https://home.khuong.theworkpc.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NguyenDangKhuong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenDangKhuong)
 
 </div>
